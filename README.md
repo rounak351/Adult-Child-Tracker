@@ -86,11 +86,11 @@ Test videos can be seen [Here](https://drive.google.com/drive/folders/1HNa2CPYz7
 
 <p align="center">
   <br>
-<img align="center" src="https://github.com/shag527/Adult-Child-Tracker/blob/main/Images/results.png" width="600" height="450">   
+<img align="center" src="https://github.com//Adult-Child-Tracker/blob/main/Images/results.png" width="600" height="450">   
  </p>
 <p align="center">
   <br>
-<img align="center" src="https://github.com/shag527/Adult-Child-Tracker/blob/main/Images/confusion_matrix.png" width="500" height="450">   
+<img align="center" src="https://github.com/rounak351/Adult-Child-Tracker/blob/main/Images/confusion_matrix.png" width="500" height="450">   
  </p>
  <p align="center">
   <br>
